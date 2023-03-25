@@ -1,4 +1,4 @@
-module github.com/go-geek/event-calendar
+module github.com/parvesh-piccosoft/go-event-calendar
 
 go 1.19
 
